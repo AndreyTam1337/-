@@ -158,9 +158,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZJTuXpW1085Oz7KO1Jx3-33" value="приборы для&amp;nbsp;&lt;div&gt;приготовления&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="505.5" y="177" width="100" height="41" as="geometry" />
+          <mxGeometry x="479" y="179" width="100" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="ZJTuXpW1085Oz7KO1Jx3-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.33;exitY=0.927;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZJTuXpW1085Oz7KO1Jx3-33" edge="1">
+        <mxCell id="ZJTuXpW1085Oz7KO1Jx3-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.33;exitY=0.927;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.942;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZJTuXpW1085Oz7KO1Jx3-33" edge="1" target="ZJTuXpW1085Oz7KO1Jx3-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="285" as="sourcePoint" />
             <mxPoint x="525" y="245" as="targetPoint" />
@@ -176,12 +176,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZJTuXpW1085Oz7KO1Jx3-37" value="женщина" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="521" y="448" width="69" height="26" as="geometry" />
+          <mxGeometry x="531" y="432" width="69" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZJTuXpW1085Oz7KO1Jx3-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.768;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZJTuXpW1085Oz7KO1Jx3-4" target="ZJTuXpW1085Oz7KO1Jx3-37" edge="1">
+        <mxCell id="ZJTuXpW1085Oz7KO1Jx3-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZJTuXpW1085Oz7KO1Jx3-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="536" y="453" as="sourcePoint" />
-            <mxPoint x="586" y="403" as="targetPoint" />
+            <mxPoint x="577" y="428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZJTuXpW1085Oz7KO1Jx3-39" value="столовые&amp;nbsp;&lt;div&gt;приборы&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
